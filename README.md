@@ -7,7 +7,7 @@ By the end of the hackathon, we will have developed a deeper understanding of De
 
 ## Requirements
 
-- A [GitHub account](https://github.com/signup) per team member
+- A [GitHub account](https://github.com/signup) per **team member**
 - A [Microsoft Azure Subscription](http://portal.azure.com/) per team
 
 ## Learning Objectives
